@@ -42,7 +42,7 @@
 
 ## 🚀 Projects
 
-### 🔷 [ContextIQ](https://github.com/AmanDas007/mini-gpt) | 🌍 [Live]([https://your-live-link](https://mini-gpt-j46a.vercel.app/))
+### 🔷 [ContextIQ](https://github.com/AmanDas007/mini-gpt) | 🌍 [Live](https://mini-gpt-j46a.vercel.app)
 AI Chat Platform with Context-Aware Memory, RAG, Real-Time Streaming, and Intelligent Rate Limiting.
 
 ### 🏥 [Medi-Connect](https://github.com/AmanDas007/medi-connect) | 🌍 [Live](https://medi-connect-eta-indol.vercel.app)
