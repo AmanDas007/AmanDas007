@@ -31,38 +31,43 @@
 
 ---
 
-## 🤖 AI / GenAI Skills
+## 🤖 AI / GenAI Engineering
 
-- Retrieval-Augmented Generation (RAG)
-- LLM Integration
-- Vector Search
-- AI-powered Web Apps
+![AI](https://img.shields.io/badge/AI-Systems-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🧠 Core Capabilities
+
+- 🧩 Retrieval-Augmented Generation (RAG)
+- 🗂️ Vector Search & Semantic Retrieval
+- 🤖 Large Language Model (LLM) Integration
+- ⚡ AI-powered Full-Stack Web Applications
 
 ---
 
 ## 🚀 Projects
 
-### 🔷 [ContextIQ](https://github.com/AmanDas007/mini-gpt) | 🌍 [Live](https://mini-gpt-j46a.vercel.app)
+### 🤖 [ContextIQ](https://github.com/AmanDas007/mini-gpt) | 🌍 [Live](https://mini-gpt-j46a.vercel.app)
+![ContextIQ](https://img.shields.io/badge/ContextIQ-AI%20Chat%20Platform-7C3AED?style=for-the-badge&logo=OpenAI&logoColor=white)
+
 AI Chat Platform with Context-Aware Memory, RAG, Real-Time Streaming, and Intelligent Rate Limiting.
 
+---
+
 ### 🏥 [Medi-Connect](https://github.com/AmanDas007/medi-connect) | 🌍 [Live](https://medi-connect-eta-indol.vercel.app)
+
 AI-powered healthcare platform for symptom-based doctor discovery, AI-assisted/manual booking, and real-time appointment scheduling with secure slot management.
 
 ---
 
 ## 📊 Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-AmanDas557-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AmanDas557/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AmanDas557/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Das-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-das-976485324/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-das-976485324/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-aman____9068-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aman____9068/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aman____9068/)
 
----
-
-## 📧 Contact
-
-📩 Email: **ad6053972@gmail.com**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ad6053972@gmail.com)
 
 ---
 
